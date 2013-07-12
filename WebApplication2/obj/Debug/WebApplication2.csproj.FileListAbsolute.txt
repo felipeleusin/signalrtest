@@ -1,8 +1,6 @@
 Z:\Projects\temp\WebApplication2\WebApplication2\bin\WebApplication2.dll
 Z:\Projects\temp\WebApplication2\WebApplication2\bin\WebApplication2.pdb
 Z:\Projects\temp\WebApplication2\WebApplication2\bin\Microsoft.AspNet.SignalR.Core.dll
-Z:\Projects\temp\WebApplication2\WebApplication2\bin\Microsoft.AspNet.SignalR.Owin.dll
-Z:\Projects\temp\WebApplication2\WebApplication2\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
 Z:\Projects\temp\WebApplication2\WebApplication2\bin\Microsoft.Owin.Host.SystemWeb.dll
 Z:\Projects\temp\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
 Z:\Projects\temp\WebApplication2\WebApplication2\bin\Nancy.dll
@@ -12,10 +10,13 @@ Z:\Projects\temp\WebApplication2\WebApplication2\bin\Owin.dll
 Z:\Projects\temp\WebApplication2\WebApplication2\bin\Owin.Extensions.dll
 Z:\Projects\temp\WebApplication2\WebApplication2\bin\Owin.Types.dll
 Z:\Projects\temp\WebApplication2\WebApplication2\bin\Microsoft.AspNet.SignalR.Core.xml
-Z:\Projects\temp\WebApplication2\WebApplication2\bin\Microsoft.AspNet.SignalR.Owin.xml
-Z:\Projects\temp\WebApplication2\WebApplication2\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
 Z:\Projects\temp\WebApplication2\WebApplication2\bin\Microsoft.Owin.Host.SystemWeb.xml
 Z:\Projects\temp\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
 Z:\Projects\temp\WebApplication2\WebApplication2\bin\Owin.Extensions.xml
 Z:\Projects\temp\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
 Z:\Projects\temp\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+Z:\Projects\temp\WebApplication2\WebApplication2\bin\Microsoft.Owin.dll
+Z:\Projects\temp\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.dll
+Z:\Projects\temp\WebApplication2\WebApplication2\bin\Microsoft.Owin.xml
+Z:\Projects\temp\WebApplication2\WebApplication2\bin\Microsoft.Owin.Security.xml
+Z:\Projects\temp\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
