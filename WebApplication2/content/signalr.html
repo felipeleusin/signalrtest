@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="//ajax.aspnetcdn.com/ajax/jQuery/jquery-1.10.1.js"></script>
+    <script src="/content/jquery.signalr-1.1.2.js"></script>
+    <script src="/signalr/hubs/"></script>
+</head>
+<body>
+    
+    <div id="foo">aa</div>
+    <script>
+        $(function () {
+            var hub = $.connection.simpleHub;
+            var foo = $("#foo");
+            $.connection.hub.start()
+                .done(function () {
+                    foo.text($.connection.hub.id);
+                    console.log('Now connected, connection ID=' + $.connection.hub.id);
+                })
+                .fail(function () {
+                    foo.text("MahOi!");
+                    console.log('Could not Connect!');
+                });
+        });
+    </script>
+</body>
+</html>
